@@ -27,7 +27,7 @@ Digital Image Processing course works
 
 
 2.Correlation
-3.
+
 >a. Consider the image the attached named as hdraw.png and crop each of the characters from the image and consider that as the sub-image. Find the location of the sub-image in the original by using correlation.
 
 >b. Download Lena color image convert it to grayscale image and crop the left eye of Lena as sub-image and do the cross-correlation ( Normalized correlation) to find the location of the left eye in the original image.
