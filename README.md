@@ -41,3 +41,13 @@ Digital Image Processing course works
 6. Swap phase of the dog image and magnitude of the lena image and display the output.
 
 7. Swap phase of the lena image and magnitude of the dog image ad display the output
+
+
+## Project
+
+# OCR Web Application Using Flask and Tesseract
+>A web application that lets you extract text from an input image. 
+>The image is extracted using the tesseract optical character recognition engine. 
+>We also provide the results after noise removal using median blur, and after morphological operations like erosion followed by dilation, and the user can copy the best option.
+
+Project Files:https://github.com/fathimanourin/OCR-webapp
