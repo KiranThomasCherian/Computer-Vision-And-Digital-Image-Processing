@@ -1,4 +1,8 @@
 
+# > Computer Vision And Digital Image Processing Course Works and Projects
+
+------------------------------------------------------------------------------------
+
 # Computer Vision
 Computer Vision course works
 
@@ -13,7 +17,6 @@ b. Find the minimum and maximum
     ii. in the gray scale image
     iii. in the binary image
 
-Objective: Application of convolution
 Q2: Write the python program which takes two polynomial as input and output the product of those two polynomials using convolution in spatial domain
 (in O(n^2))
 
@@ -36,8 +39,7 @@ Design and implement the scheme to find the disparity map from the stereo images
 ## Assignment 5:
 
 Camera calibration using builtin function. 
-Hint:
-1. Chessboard can be used for imaging  purpose
+Hint:Chessboard can be used for imaging  purpose
 
 ## Assignment 6:
 
@@ -58,6 +60,13 @@ Here the software must do 2 things
 1) Identify percentage positivity (similar to that described above)
 2) Classify the intensity of staining as low and high grade.
 
+
+## Assignment 8:
+
+Face recognition using SIFT features and the demo should be shown on students' faces.
+
+
+------------------------------------------------------------------------------------
 
 # Digital-Image-Processing
 Digital Image Processing course works
